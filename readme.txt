@@ -5,9 +5,4 @@ Git is a little difficult for me
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 add merge
-<<<<<<< HEAD
-master test
-
-=======
-branch test2
->>>>>>> dev
+branch test3
